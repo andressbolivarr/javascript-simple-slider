@@ -16,6 +16,7 @@ margin:  0 auto;
  .mySlides {
    display: none; 
    display: flex;
+     
     align-items: center;
 }  
 
